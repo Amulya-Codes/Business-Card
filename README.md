@@ -1,6 +1,6 @@
 # Business Card
 
-A simple and elegant business card made with HTML, CSS
+A simple and elegant business card made with HTML, CSS for the BigDevSoon Project
 
 ## Demo
 
