@@ -8,6 +8,6 @@ A simple and elegant business card made with HTML, CSS
 
 ## Features
 
--- Clean and modern layout
+- Clean and modern layout
 
--- Easy to customize
+- Easy to customize
